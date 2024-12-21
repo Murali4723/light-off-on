@@ -1,0 +1,49 @@
+#body{
+    background-color: grey;
+    
+}
+#box{
+    align-items: center;
+    border-radius: 20px;
+    border: 2px solid black;
+    height: 700px;
+    width: 500px;
+    justify-content: center;
+    background-color: black;
+}
+h1{
+    font-style: italic;
+    color: black;
+    
+}
+#img-bulb{
+    height: 150px;
+    width: 150px;
+}
+#img-light{
+    margin-top: 30px;
+    height: 300px;
+    width: 300px;
+
+}
+#switch{
+    border: 2px solid azure;
+    border-radius: 20px;
+    height: 100px;
+    width: 250px;
+    justify-content: center;
+    background-color: brown;
+}
+#button-style{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: ;
+}
+#onswitch{
+    color: black;
+    background-color: yellow;
+}
+#offswitch{
+    color: black;
+    background-color: yellow;
+}
